@@ -1,0 +1,61 @@
+{
+  "loginpage": {
+    "title": "Prijava",
+    "intro": "Da biste pristupili našoj web stranici, molimo prijavite se s korisničkim imenom i lozinkom.",
+    "placeholderName": "Korisnik",
+    "placeholderEmail": "Email",
+    "placeholderPassword": "* Lozinka",
+    "loginbutton": "Prijava →"
+  },
+  "hero": {
+    "weddingwebsite": "Ovim putem vas pozivamo da svojim cijenjenim prisustvom učinite naš dan vjenčanja veličanstvenim.",
+    "locationwedding": "Sarajevo Golf Klub, Bosna i Hercegovina"
+  },
+  "navbar": {
+    "RSVP": "RSVP",
+    "contactus": "Kontaktirajte nas",
+    "menu": "Meni"
+  },
+
+  "location": {
+    "title": "Lokacija",
+    "introduction": "Koja informacija o gradu u kojem se vjenčavamo, lokaciji vjenčanja i o interesnim stvarima za vidjeti u Sarajevu ukoliko niste lokalni.",
+    "cerimonia": "Kako sama ceremonija vjenčanja tako i prijem bit će organizovani u Sarajevo Golf Klubu.",
+    "address": "Address",
+    "mapsuggestions": "Na karti ispod smo naznačili par stvari koje mogu biti od koristi snalazeči se po gradu."
+  },
+  "RSVP": {
+    "title": "R.S.V.P.",
+    "fieldAttendance": "* Možete li to prisustvovati?",
+    "headerExplain": "Molimo ispunite obrazac u nastavku kako bi ste nas obavijestili o vašem prisustvu na vjenčanju.",
+    "header": "Vaš RSVP",
+    "thanks": "Hvala na vašem RSVP-u. Molimo Vas da nas obavijestite o promjenama najmanje dvije sedmice prije vjenčanja.",
+    "fieldName": "* Ime i prezime",
+    "fieldEmail": "* Važeća email adresa",
+    "fieldAttendanceYes":"Da, bit ću tamo",
+    "fieldAttendanceNo":"Ne mogu uspeti prisustvovati",
+    "fieldAllergies":"Imate li alergije ili prehrambene sklonosti?",
+    "fieldMusic": "Imate li koji zahtjev za pjesmu?",
+    "confirm": "Pošalji"
+  },
+  "plusOne": {
+    "header":"Šta je sa vašim Plus-Oneom?",
+    "headerEdit": "Dodatne informacije o vašem Plus-One",
+    "guestName": "Ime i prezime gosta",
+    "guestAllergies": "Da li vaš gost ima alergije ili prehrambene sklonosti?",
+    "title": "Imate li Plus-One?",
+    "yes": "Da",
+    "no": "Ne"
+  },
+  "contactus": {
+    "title": "Javite se",
+    "summary":"Ukoliko imate pitanja ili poseban zahtjev kontaktirajte nas putem e-pošte",
+    "email": "ovdje.",
+    "bridesummary": "Rođena u Sarajevu, odrastla u Italiji i u Sarajevu, sa stalnom željom za putovanjem i učenjem novih kultura. Ljubazna prema životinjama, posebno lutalicama. Konstantno pruža priliku ljudima da pokažu svoju dobronamjernu stranu. Vrlo uzemljena i usredsređena na ljepote u malim stvarima. Studirala je medicinu, ali nakon nekog vremena prešla je na Ekonomiju. Ima odličan ukus kod ljudi koji izgledaju zanimljivo na instagramu gdje je kontaktirala svog budućeg mužem u DM-u." ,
+    "groomsummary": "Rođen u Bijeljini, odrastao u Švedskoj i u Bijeljini. Iskusni borac i takmičio se u shoot-fighting, ali radi kao inženjer softvera. Odlučio se da studira informatiku u 28. godini na univerzitetu Linnaeus. Voli životinje, ima američki stafordski terijer zvan chilli, što je bio jedan od razloga da sretne svoju buduću suprugu. Stvorio instagram račun 2014. godine s uglavnom slikama čili, a zahvaljujući tome dobio je DM jedan dan od jedne cure u Sarajevu ;) . "
+  },
+  "menu": {
+    "title": "Meni",
+    "paragraph": "Uskoro dolazi meni ovdje."
+  }
+}

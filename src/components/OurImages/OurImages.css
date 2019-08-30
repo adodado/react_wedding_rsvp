@@ -1,0 +1,11 @@
+#ourImages .image_grid > li:first-child {
+  background-image: url("/images/mi4.jpg");
+}
+
+#ourImages .image_grid > li:nth-child(2) {
+  background-image: url("/images/mi1.jpg");
+}
+
+#ourImages .image_grid > li:last-child {
+  background-image: url("/images/mi3.jpg");
+}

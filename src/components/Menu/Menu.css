@@ -1,0 +1,16 @@
+
+#food .image_grid > li:first-child {
+  background-image: url("/images/meni1.jpg");
+}
+
+#food .image_grid > li:nth-child(2) {
+  background-image: url("/images/meni2.jpg");
+}
+
+#food .image_grid > li:nth-child(3) {
+  background-image: url("/images/meni3.jpg");
+}
+
+#food .image_grid > li:last-child {
+  background-image: url("/images/meni4.jpg");
+}

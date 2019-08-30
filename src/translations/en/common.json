@@ -1,0 +1,61 @@
+{
+  "loginpage": {
+    "title": "Login",
+    "intro": "To access our website , please login with the username and password that was provided to you.",
+    "placeholderName": "Username",
+    "placeholderEmail": "Email",
+    "placeholderPassword": "* Password",
+    "loginbutton": "Login →"
+  },
+  "hero": {
+    "weddingwebsite": "This is an invite for you to make our wedding day magnificent.",
+    "locationwedding": "Sarajevo Golf Club, Bosnia and Herzegovina"
+  },
+  "navbar": {
+    "RSVP": "RSVP",
+    "contactus": "Contact Us",
+    "menu": "Menu"
+  },
+
+  "location": {
+    "title": "Location",
+    "introduction": "Some more information about the city where we are getting married, the location of the wedding and what to visit in Sarajevo if you are not a local.",
+    "cerimonia": "Both the wedding ceremony and the reception will take place at Sarajevo golf club.",
+    "address": "Address",
+    "mapsuggestions": "On the map below, we've outlined a few things that can be helpful in navigating the city."
+  },
+  "RSVP": {
+    "title": "R.S.V.P.",
+    "fieldAttendance": "* Can you make it?",
+    "headerExplain": "Please complete the form below to let us know if you can make it to the wedding.",
+    "header": "Your RSVP",
+    "thanks": "Thanks for your RSVP. Please let us know if there are any changes at least two weeks before the wedding.",
+    "fieldName": "* Full name",
+    "fieldEmail": "* Valid e-mail address",
+    "fieldAttendanceYes": "Yes I will be there",
+    "fieldAttendanceNo": "I can't make it",
+    "fieldAllergies": "Do you have any allergies or dietary preferences?",
+    "fieldMusic": "Any song request?",
+    "confirm": "Submit"
+  },
+  "plusOne": {
+    "header": "What about your Plus-One?",
+    "headerEdit": "Additional info on your Plus-One",
+    "guestName": "Guest Full Name",
+    "guestAllergies": "Does your guest have allergies or dietary preferences?",
+    "title": "Do you have a Plus-One?",
+    "yes": "Yes",
+    "no": "No"
+  },
+  "contactus": {
+    "title": "Get in touch",
+    "summary": "If you have questions or a special request, please contact us by email.",
+    "email": "here.",
+    "bridesummary": "Born in Sarajevo and raised both in Italy and Sarajevo, with the constant desire to travel and learn about new cultures. Kind to animals, especially stray cats and dogs. Goes out of her way to give people a chance to show their good natured side. Very down to earth and centered, sees the beauty in the litle things. Studied Medicine but after some time switched to Business and Finance. And has excellent taste in people who look interesting on instagram where she approached her future husband in a DM.",
+    "groomsummary": "Born in Bijeljina and raised both in Sweden and Bijeljina. Experienced martial-art fighter and also competed in shoot-fighting, but works as an Software Engineer. Decided to study informatics at the late age of 28 at the Linnaeus university. Loves animals, sometimes even more than people acctualy. Has an american staffordshire terrier called Chilli who was acctually one of the reasons he met his future wife. Created an instagram account in 2014 whith mostly posts of Chilli, and thanks to that he got a DM that one special day."
+  },
+  "menu": {
+    "title": "Menu",
+    "paragraph": "Stay tuned for unveiling of the menu."
+  }
+}
