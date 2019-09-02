@@ -18,7 +18,11 @@ class Navbar extends React.Component {
           <li>
             <Link to="#location">
               <i className="fas fa-map" />
-              <span className="description">Location</span>
+              <span className="description">
+                {this.props.t("navbar.location", {
+                  framework: "react-i18next"
+                })}
+                </span>
             </Link>
           </li>
           <li>
@@ -36,16 +40,6 @@ class Navbar extends React.Component {
               <i className="fas fa-edit" />
               <span className="description">
                 {this.props.t("navbar.contactus", {
-                  framework: "react-i18next"
-                })}
-              </span>
-            </Link>
-          </li>
-          <li>
-            <Link to="#food">
-              <i className="fas fa-book" />
-              <span className="description">
-                {this.props.t("navbar.menu", {
                   framework: "react-i18next"
                 })}
               </span>

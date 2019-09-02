@@ -25,16 +25,13 @@ class Login extends React.Component {
   handleSignUp = async event => {
     event.preventDefault();
     const weddingguests = [
-      {username: 'nino@aaw.com',password:'Q7NP4Z'},
-      {username: 'admir@aaw.com',password:'9LJYEL'},
-      {username: 'amela@aaw.com',password:'6DDWVP'}
     ]
     try {
       await weddingguests.forEach(guest => {
         firebaseApp
         .auth()
         .createUserWithEmailAndPassword(
-          guest.username,
+          guest.username.toLowerCase()+"@cometoawedding.com",
           guest.password
         )
         .then(this.authHandler);
@@ -46,7 +43,7 @@ class Login extends React.Component {
 
   handleLogin = async event => {
     event.preventDefault();
-    const email = this.myEmailInput.current.value+'@aaw.com';
+    const email = this.myEmailInput.current.value.toLowerCase() +'@cometoawedding.com';
     try {
       console.log(1);
       await firebaseApp
@@ -97,16 +94,18 @@ class Login extends React.Component {
                 framework: "react-i18next"
               })}
               ref={this.myEmailInput}
+              onKeyPress={(e)=>{e.key === 'Enter' && e.preventDefault();}} 
             />
             <input
               required
-              onChange={this.handleChange}
+              //onChange={this.handleChange}
               name="password"
               type="password"
               placeholder={this.props.t("loginpage.placeholderPassword", {
                 framework: "react-i18next"
               })}
               ref={this.myPasswordInput}
+              onKeyPress={(e)=>{e.key === 'Enter' && e.preventDefault();}} 
             />
           </div>
           <button type="submit" onClick={this.handleLogin}>

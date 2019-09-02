@@ -14,7 +14,7 @@
   "navbar": {
     "RSVP": "RSVP",
     "contactus": "Contact Us",
-    "menu": "Menu"
+    "location": "Location"
   },
 
   "location": {
@@ -27,7 +27,7 @@
   "RSVP": {
     "title": "R.S.V.P.",
     "fieldAttendance": "* Can you make it?",
-    "headerExplain": "Please complete the form below to let us know if you can make it to the wedding.",
+    "headerExplain": "Please complete the form below ASAP to let us know if you can make it to the wedding.",
     "header": "Your RSVP",
     "thanks": "Thanks for your RSVP. Please let us know if there are any changes at least two weeks before the wedding.",
     "fieldName": "* Full name",

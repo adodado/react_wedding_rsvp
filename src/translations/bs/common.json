@@ -12,9 +12,9 @@
     "locationwedding": "Sarajevo Golf Klub, Bosna i Hercegovina"
   },
   "navbar": {
-    "RSVP": "RSVP",
+    "RSVP": "Pozivnica",
     "contactus": "Kontaktirajte nas",
-    "menu": "Meni"
+    "location": "Lokacija"
   },
 
   "location": {
@@ -25,11 +25,11 @@
     "mapsuggestions": "Na karti ispod smo naznačili par stvari koje mogu biti od koristi snalazeči se po gradu ako niste lokalni."
   },
   "RSVP": {
-    "title": "R.S.V.P.",
-    "fieldAttendance": "* Možete li to prisustvovati?",
-    "headerExplain": "Molimo ispunite obrazac u nastavku kako bi ste nas obavijestili o vašem prisustvu na vjenčanju.",
-    "header": "Vaš RSVP",
-    "thanks": "Hvala na vašem RSVP-u. Molimo Vas da nas obavijestite o promjenama najmanje dvije sedmice prije vjenčanja.",
+    "title": "Odgovor na pozivnicu",
+    "fieldAttendance": "* Možete li prisustvovati?",
+    "headerExplain": "Molimo ispunite obrazac u nastavku što prije kako bi ste nas obavijestili o vašem prisustvu na vjenčanju.",
+    "header": "Vaš odgovor na pozivnicu",
+    "thanks": "Hvala na vašem odgovoru. Molimo Vas da nas obavijestite o promjenama najmanje dvije sedmice prije vjenčanja.",
     "fieldName": "* Ime i prezime",
     "fieldEmail": "* Važeća email adresa",
     "fieldAttendanceYes":"Da, bit ću tamo",
@@ -39,11 +39,11 @@
     "confirm": "Pošalji"
   },
   "plusOne": {
-    "header":"Šta je sa vašim Plus-Oneom?",
-    "headerEdit": "Dodatne informacije o vašem Plus-One",
+    "header":"Šta je sa vašim gostom?",
+    "headerEdit": "Dodatne informacije o vašem gostu",
     "guestName": "Ime i prezime gosta",
     "guestAllergies": "Da li vaš gost ima alergije ili prehrambene sklonosti?",
-    "title": "Imate li Plus-One?",
+    "title": "Hočete li povesti gosta sa sobom?",
     "yes": "Da",
     "no": "Ne"
   },
@@ -52,7 +52,7 @@
     "summary":"Ukoliko imate pitanja ili poseban zahtjev kontaktirajte nas putem e-pošte",
     "email": "ovdje.",
     "bridesummary": "Rođena u Sarajevu, dio djetinstva provela u Italiji. Uvijek željna upoznavanja novih mjesta, drugačijih ljudi, kultura, mirisa i okusa. Veliki ljubitelj životinja, posebno onih u nevolji. Trudi se da stalno pruža priliku ljudima da pokažu svoju dobronamjernu stranu. Prizemljena, skromna, pronalazi ljepotu u sitnicama. Nakon pokušaja studija medicine nastavila je i zavrsila Ekonomski fakultet u Sarajevu. Odličan ukus je pokazala zapazivši svog budućeg muža na instagramu i kontaktirajući ga." ,
-    "groomsummary": "Rođen u Bijeljini, odrastao u Švedskoj i u Bijeljini. Iskusni borac i takmičio se u shoot-fighting, ali radi kao inženjer softvera. Odlučio se da studira informatiku u 28. godini na univerzitetu Linnaeus. Voli životinje, ima američki stafordski terijer zvan chilli, što je bio jedan od razloga da sretne svoju buduću suprugu. Stvorio instagram račun 2014. godine s uglavnom slikama čili, a zahvaljujući tome dobio je jedan dan poruku od jedne cure u Sarajevu od svih mjesta. "
+    "groomsummary": "Rođen u Bijeljini, odrastao u Švedskoj i u Bijeljini. Iskusni borac i takmičio se u shoot-fighting, ali radi kao inženjer softvera. Odlučio se da studira informatiku u 28. godini na fakultetu. Voli životinje, ima američki stafordski terijer zvan čili, što je bio jedan od razloga da sretne svoju buduću suprugu. Stvorio instagram račun 2014. godine s uglavnom slikama čili, a zahvaljujući tome dobio je jedan dan poruku od jedne cure u Sarajevu od svih mjesta. "
   },
   "menu": {
     "title": "Meni",
